@@ -1,4 +1,6 @@
 # mdk-ios-xcodeproj-maven-plugin
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 **Movalys MDK: MDK-Cli's plugin description**
 
 ## What?
